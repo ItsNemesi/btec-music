@@ -1,0 +1,11 @@
+const About = () => {
+    return(
+        <div>
+            <header>
+                About
+            </header>
+        </div>
+    )
+}
+
+export default About;
